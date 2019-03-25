@@ -57,3 +57,6 @@ payload['schedule']で指定する日時の形式は'yyyy/MM/dd hh/mm'のみ対�
 ## 'abort'コマンド
 payload['command']に'abort'を指定すると、実行中のプリントを停止し、
 3DプリンタのノズルヘッドのXY座標を初期位置に戻します。
+
+# License
+このプロジェクトはMITライセンスです。
