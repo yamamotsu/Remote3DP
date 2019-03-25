@@ -1,0 +1,8 @@
+client_config_backend: file
+
+oauth_scope:
+  - https://www.googleapis.com/auth/drive
+
+save_credentials: True  # 認証情報を保存する
+save_credentials_backend: file  # 何に保存するか. 今のところ 'file' しか指定できないらしい
+save_credentials_file: credentials.json  # 認証情報保存ファイル名

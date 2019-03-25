@@ -1,3 +1,4 @@
 .DS_Store
-settings.yaml
 mqtt_settings.yaml
+client_secrets.json
+credentials.json
