@@ -1,0 +1,9 @@
+{
+    "name":"prusai3_hictop",
+    "baud":250000,
+    "lim_x":210,
+    "lim_y":260,
+    "lim_z":200,
+    "lim_bed_temp":80,
+    "lim_nozzle_temp":250
+}
